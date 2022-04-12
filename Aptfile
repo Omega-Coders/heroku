@@ -1,1 +1,1 @@
-libzbar-dev
+apt-get install libzbar-dev
