@@ -25,4 +25,4 @@ tzdata==2022.1
 urllib3==1.26.9
 what3words==3.1.1
 whitenoise==6.0.0
-windows-curses==2.3.0
+
