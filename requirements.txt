@@ -17,7 +17,7 @@ opencv-python-headless==4.5.5.64
 Pillow==9.1.0
 pyserial==3.5
 PyYAML==6.0
-pyzbar==0.1.9
+pyzbar
 
 qrcode==7.3.1
 ratelim==0.1.6
