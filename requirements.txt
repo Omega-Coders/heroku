@@ -1,4 +1,4 @@
-#https://github.com/sheck/heroku-buildpack-zbar
+
 
 asgiref==3.5.0
 certifi==2021.10.8
@@ -16,8 +16,9 @@ numpy==1.22.3
 opencv-python-headless==4.5.5.64
 Pillow==9.1.0
 pyserial==3.5
-PyYAML==6.0
+PyYAML==6.0;
 pyzbar
+pyzbar[scripts]
 
 qrcode==7.3.1
 ratelim==0.1.6
